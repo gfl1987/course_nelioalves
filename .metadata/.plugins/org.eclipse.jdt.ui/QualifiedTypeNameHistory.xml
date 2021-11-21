@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entities.SavingsAccount"/>
+    <fullyQualifiedTypeName name="entities.BusinessAccount"/>
+    <fullyQualifiedTypeName name="entities.Account"/>
+</qualifiedTypeNameHistroy>

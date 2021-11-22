@@ -8,8 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 
-		File file = new File(
-				"C:\\Users\\GFL\\Desktop\\Geral\\JavaNelioAlves\\Projetos\\ws-eclipse\\lendo-arquivos\\temp\\ini.txt");
+		File file = new File("C:\\Users\\GFL\\Desktop\\Geral\\JavaNelioAlves\\Projetos\\ws-eclipse\\lendo-arquivos\\temp\\ini.txt");
 		Scanner sc = null;
 		try {
 			sc = new Scanner(file);

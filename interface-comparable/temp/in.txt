@@ -1,0 +1,9 @@
+Maria Lucia,4000.00 
+Alex Green,1000.00
+Bob Esponja,1500.00
+Anna Belle,2000.00
+Guizao Desenvolvedor,8000.00
+Larissa Fonseca,5000.00
+Antonella Fonseca,5000.00
+Lucia Rose,2000.00
+Neusa Batista,1000.00

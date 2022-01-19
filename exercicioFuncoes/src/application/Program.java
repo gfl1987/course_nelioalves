@@ -7,6 +7,10 @@ import java.util.Locale;
 import model.entities.Product;
 import model.services.ProductService;
 
+/* Exercicio para fazer um programa que a partir de uma lista de produtos, calcule a 
+* soma dos preços somente dos produtos cujo nome começa com a letra "T".
+*/
+
 public class Program {
 	
 	public static void main(String[] args) {
